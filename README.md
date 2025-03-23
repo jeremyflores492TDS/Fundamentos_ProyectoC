@@ -20,7 +20,7 @@ sudo apt install gcc -y
 ## 🚀 Pasos para la Ejecución
 1. **Clonar el repositorio**:
    ```sh
-   git clone https://github.com/tu-usuario/conversor-monedas-c.git
+   git clone https://github.com/jeremyflores492TDS/Fundamentos_ProyectoC.git
    cd conversor-monedas-c
    ```
 2. **Compilar el código**:
