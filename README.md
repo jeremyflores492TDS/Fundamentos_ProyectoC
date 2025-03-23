@@ -33,6 +33,6 @@ sudo apt install gcc -y
    ```
 ## ✍️ Datos del Autor
 - **Nombre:** Jeremy Flores  
-- **Correo:** jeremyflores@example.com  
+- **Correo:** Correo: 25001422@galileo.edu
 - **Carnet:** 25001422
 
