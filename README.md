@@ -1,4 +1,5 @@
-Conversor de Monedas en C 💰💻
+# Conversor de Monedas en C 💰💻
+##Descripcion
 Este es un programa en lenguaje C que permite convertir entre Quetzales (GTQ), Dólares Estadounidenses (USD) y Euros (EUR). Es un proyecto simple pero útil para practicar programación en C, manejo de entrada/salida y estructuras de control como bucles y condicionales.
 
 Prerrequisitos: 
